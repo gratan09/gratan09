@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ratan 👋
 
-<!--
-**gratan09/gratan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech Graduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Interested in Software Development
+- 🌱 Currently learning DSA, Python, SQL
+- 🎯 Looking for Software Engineer roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • SQL • Git • GitHub • Machine Learning • Artificial Intelligence • Linux
+
+## Featured Projects
+🔹 Expense Tracker
+🔹 Student Management System
+🔹 LeetCode Solutions
+🔹 Netflix Data Analysis
+
+## GitHub Stats
+(Stats cards)
+
+## Connect
+LinkedIn
+Portfolio
+Email
