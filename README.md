@@ -11,8 +11,8 @@ M.Tech Graduate | Aspiring Software Engineer
 Python • SQL • Git • GitHub • Machine Learning • Artificial Intelligence • Linux
 
 ## Featured Projects
-🔹 Expense Tracker
-🔹 Student Management System
+🔹 Android Malware Detection
+🔹 Speech Based Emotion Detection
 🔹 LeetCode Solutions
 🔹 Netflix Data Analysis
 
