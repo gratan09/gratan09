@@ -16,10 +16,4 @@ Python • SQL • Git • GitHub • Machine Learning • Artificial Intelligen
 🔹 LeetCode Solutions
 🔹 Netflix Data Analysis
 
-## GitHub Stats
-(Stats cards)
 
-## Connect
-LinkedIn
-Portfolio
-Email
