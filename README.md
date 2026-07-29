@@ -50,7 +50,7 @@ M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sh
 | 🛡️ | **Android Malware Detection** | Python · Scikit-learn |
 | 🎙️ | **Speech-Based Emotion Detection** | Librosa · TensorFlow |
 | 📊 | **Netflix Data Analysis** | Pandas · Matplotlib |
-| 🧩 | **LeetCode Solutions** | DSA · Java/Python |
+| 🧩 | **LeetCode Solutions** | DSA · Python |
 
 ---
 
