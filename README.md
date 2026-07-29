@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:396afc&height=200&section=header&text=Ratan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20ML%20&%20Data%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:396afc&height=200&section=header&text=Ratan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&20ML%20&%20Data%20Enthusiast&descAlignY=55&descSize=18)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Open+to+Fresher+SDE+Roles;Always+learning%2C+always+shipping)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Always+learning%2C+always+shipping)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gratan09&color=0d9de8&style=flat-square&label=PROFILE+VIEWS)
 
