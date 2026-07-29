@@ -11,7 +11,7 @@
 
 ## ⚡ About
 
-Computer Science grad who likes making data do useful things — ML models, malware detectors, emotion-recognition from speech, and the occasional data deep dive. Currently sharpening Data Structures & Algorithms, open to new opportunities where I can build things that matter
+Computer Science grad who likes making data do useful things - ML models, malware detectors, emotion-recognition from speech, and the occasional data deep dive. Currently sharpening Data Structures & Algorithms, open to new opportunities where I can build things that matter
 
 <br/>
 
