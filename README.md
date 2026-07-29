@@ -11,7 +11,7 @@
 
 ## ⚡ About
 
-M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sharpening DSA and backend skills while hunting for my first Software Engineer role.
+Computer Science grad who likes making data do useful things — ML models, malware detectors, emotion-recognition from speech, and the occasional data deep dive. Currently sharpening Data Structures & Algorithms, open to new opportunities where I can build things that matter
 
 <br/>
 
@@ -67,8 +67,7 @@ M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gratan09&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gratan09&layout=compact&theme=dracula&hide_border=true)
+
 
 </div>
 
