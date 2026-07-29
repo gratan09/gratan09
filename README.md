@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Always+learning%2C+always+shipping)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gratan09&color=0d9de8&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=gratan09&color=0d9de8)
 
 </div>
 
