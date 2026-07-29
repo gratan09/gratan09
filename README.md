@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F0FF&height=200&section=header&text=Ratan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20ML%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:00F0FF&amp;height=200&amp;section=header&amp;text=Ratan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20ML%20%26%20Data%20Enthusiast&amp;descAlignY=55&amp;descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Open+to+Fresher+SDE+Roles;Always+learning%2C+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+intelligent+systems...;Open+to+Fresher+SDE+Roles;Always+learning%2C+always+shipping" />
 
-<img src="https://komarev.com/ghpvc/?username=gratan09&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=gratan09&amp;color=00f0ff&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
 
 </div>
 
@@ -68,11 +68,11 @@ M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gratan09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratan09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=gratan09&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratan09&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0F2027&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F0FF,100:0F2027&amp;height=100&amp;section=footer" />
