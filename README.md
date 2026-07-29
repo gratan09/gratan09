@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F2027,50:2C5364,100:00F0FF&amp;height=200&amp;section=header&amp;text=Ratan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Aspiring%20Software%20Engineer%20%7C%20ML%20%26%20Data%20Enthusiast&amp;descAlignY=55&amp;descSize=18" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:396afc&height=200&section=header&text=Ratan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20ML%20&%20Data%20Enthusiast&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00F0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+intelligent+systems...;Open+to+Fresher+SDE+Roles;Always+learning%2C+always+shipping" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems...;Open+to+Fresher+SDE+Roles;Always+learning%2C+always+shipping)
 
-<img src="https://komarev.com/ghpvc/?username=gratan09&amp;color=00f0ff&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
+![Profile Views](https://komarev.com/ghpvc/?username=gratan09&color=0d9de8&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -22,34 +22,34 @@ M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sh
 
 **Programming Languages**
 
-<img src="https://cdn.simpleicons.org/python/00F0FF" width="45" height="45" alt="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/00F0FF" width="45" height="45" alt="SQL" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<br/><br/>
+<br/>
 
 **Libraries & Frameworks**
 
-<img src="https://cdn.simpleicons.org/scikitlearn/00F0FF" width="45" height="45" alt="Scikit-learn" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tensorflow/00F0FF" width="45" height="45" alt="TensorFlow" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/00F0FF" width="45" height="45" alt="Pandas" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/00F0FF" width="45" height="45" alt="NumPy" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/matplotlib/00F0FF" width="45" height="45" alt="Matplotlib" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/librosa/00F0FF" width="45" height="45" alt="Librosa" />
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-D65A31?style=for-the-badge&logoColor=white)
 
-<br/><br/>
+<br/>
 
 **Databases**
 
-<img src="https://cdn.simpleicons.org/mysql/00F0FF" width="45" height="45" alt="MySQL" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/00F0FF" width="45" height="45" alt="PostgreSQL" />
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br/><br/>
+<br/>
 
 **Software Development**
 
-<img src="https://cdn.simpleicons.org/git/00F0FF" width="45" height="45" alt="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/00F0FF" width="45" height="45" alt="GitHub" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/00F0FF" width="45" height="45" alt="Streamlit" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -68,11 +68,11 @@ M.Tech (CSE) graduate building ML-driven and data-focused projects, currently sh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gratan09&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratan09&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gratan09&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gratan09&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F0FF,100:0F2027&amp;height=100&amp;section=footer" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:396afc,100:0F2027&height=100&section=footer)
